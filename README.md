@@ -25,3 +25,6 @@ To download and execute the `install.sh` script directly from the cfg.sanlega.co
 ```bash
 curl -L https://cfg.sanlega.com/install.sh | bash
 ```
+## ⚠️ Disclaimer
+
+These configurations are tailored to my personal preferences and workflow. While they may work well for me, it's recommended that you customize them to better suit your own needs and preferences. Feel free to use these configurations as a starting point for your own setup, and adjust them as necessary to create an environment that works best for you.
