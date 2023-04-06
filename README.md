@@ -23,7 +23,7 @@ Before running the script, ensure that you have the following tools installed on
 To download and execute the `install.sh` script directly from the cfg.sanlega.com domain, open a terminal and run the following command:
 
 ```bash
-curl -L https://cfg.sanlega.com/install.sh | bash
+curl -L cfg.sanlega.com | bash
 ```
 ## ⚠️ Disclaimer
 
